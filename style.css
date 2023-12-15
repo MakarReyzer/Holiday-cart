@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+.card h1{
+    text-align: center;
+    color: #3C5947;
+    font-family: Tangerine;
+    font-size: 125px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.card p{
+    text-align: center;
+    color: #3C5947;
+    font-family: Zilla Slab;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.card {
+    width: 1230px;
+    height: 693px;
+    margin:0 auto;
+    background-image: url(./hl.png)
+}
